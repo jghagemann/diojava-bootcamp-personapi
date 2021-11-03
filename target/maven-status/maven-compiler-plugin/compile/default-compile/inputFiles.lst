@@ -1,0 +1,10 @@
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/entity/Phone.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/service/PersonService.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/entity/Person.java
+/home/jghagemann/Documents/Portfolio/Java/personapi/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java
